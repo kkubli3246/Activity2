@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity2Part1", "Activity2Part1.csproj", "{E03E7929-4E86-45FE-A67E-537002FE9E5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{0A279FF4-CF3F-4839-AC19-867FFD237F72}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Kekoa\Desktop\BlueButn.jpg = C:\Users\Kekoa\Desktop\BlueButn.jpg
+		C:\Users\Kekoa\Desktop\RedButn.jpg = C:\Users\Kekoa\Desktop\RedButn.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03E7929-4E86-45FE-A67E-537002FE9E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03E7929-4E86-45FE-A67E-537002FE9E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03E7929-4E86-45FE-A67E-537002FE9E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03E7929-4E86-45FE-A67E-537002FE9E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4849C500-0BE3-45DE-BA9F-02EC7C63CC9F}
+	EndGlobalSection
+EndGlobal
